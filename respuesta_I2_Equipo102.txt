@@ -1,0 +1,5 @@
+GAMMA
+A- Primero lo sincronizamos desde la pagina de github y luego hacemos un pull desde la consola
+B- No , solo en el caso de que se acepte el pull request desde el fork
+
+BETA
