@@ -1,5 +1,9 @@
 GAMMA
+Rocca Elias
 A- Primero lo sincronizamos desde la pagina de github y luego hacemos un pull desde la consola
 B- No , solo en el caso de que se acepte el pull request desde el fork
 
 BETA
+Argento Elián
+C- Si, usando el boton "sync fork"
+D- Si actualizas el Fork, los datos se pierden. Para evitar eso, previamente se debe hacer un pull request para actualizar el repositorio main.
