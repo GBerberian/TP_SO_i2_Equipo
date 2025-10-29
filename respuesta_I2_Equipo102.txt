@@ -1,3 +1,7 @@
+Berberian Gabriel
+Argento Elián
+Rocca Elias
+
 GAMMA
 Rocca Elias
 A- Primero lo sincronizamos desde la pagina de github y luego hacemos un pull desde la consola
@@ -7,3 +11,21 @@ BETA
 Argento Elián
 C- Si, usando el boton "sync fork"
 D- Si actualizas el Fork, los datos se pierden. Para evitar eso, previamente se debe hacer un pull request para actualizar el repositorio main.
+
+ALFA
+Gabriel Berberian
+E-
+
+Primero se crea el repositorio (Beta) y cada integrante hace fork del mismo (Alfa y Gamma)
+Listado de comandos
+git clone
+(Se trabaja sobre los archivos a modificar (Alfa y Gamma))
+git add . 
+git commit -m 
+git push 
+(Luego de realizar su parte del trabajo actualiza el repositorio)
+
+Desde la pagina de git de hace un push request al dueño del repositorio original
+Una vez aceptado, cada integrante sincroniza su "fork" para mantenerlo actualizado con el original
+Beta agrega los archivos nuevos 
+Alfa y Gamma actualizan el repositorio
